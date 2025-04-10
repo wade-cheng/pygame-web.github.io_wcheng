@@ -11,8 +11,11 @@ This is the CDN root used by [Pygbag](https://pypi.org/project/pygbag/).
 [Old runtimes and current](https://github.com/pygame-web/archives)
 
 
-### Pygbag does not track usage at all, not even for statistical purposes. 
+```admonish info
+Pygbag does not track usage at all, not even for statistical purposes. 
+
 If you like it, please [star](https://github.com/pygame-web/pygbag/stargazers) the repository!
+```
 
 ## (Very) important points
 
